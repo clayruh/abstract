@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 30px;
+}
+
+.state-card {
+  margin: 10px;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 10px;
+  min-width: 200px;
+}
+
+.state-card--name {
+  color: pink;
+  font-size: 20px;
+}
+
+.state-card--text {
+  font-size: 14px;
+}

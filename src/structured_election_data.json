@@ -1,0 +1,1832 @@
+{
+  "year_2004": [
+    {
+      "id": 20040,
+      "state": "AL",
+      "popular_vote_democrat": 693933,
+      "popular_vote_republican": 1176394,
+      "popular_vote_total": 1883449
+    },
+    {
+      "id": 20041,
+      "state": "AK",
+      "popular_vote_democrat": 111025,
+      "popular_vote_republican": 190889,
+      "popular_vote_total": 312598
+    },
+    {
+      "id": 20042,
+      "state": "AZ",
+      "popular_vote_democrat": 893524,
+      "popular_vote_republican": 1104294,
+      "popular_vote_total": 2012585
+    },
+    {
+      "id": 20043,
+      "state": "AR",
+      "popular_vote_democrat": 469953,
+      "popular_vote_republican": 572898,
+      "popular_vote_total": 1054945
+    },
+    {
+      "id": 20044,
+      "state": "CA",
+      "popular_vote_democrat": 6745485,
+      "popular_vote_republican": 5509826,
+      "popular_vote_total": 12421852
+    },
+    {
+      "id": 20045,
+      "state": "CO",
+      "popular_vote_democrat": 1001732,
+      "popular_vote_republican": 1101255,
+      "popular_vote_total": 2130330
+    },
+    {
+      "id": 20046,
+      "state": "CT",
+      "popular_vote_democrat": 857488,
+      "popular_vote_republican": 693826,
+      "popular_vote_total": 1578769
+    },
+    {
+      "id": 20047,
+      "state": "DE",
+      "popular_vote_democrat": 200152,
+      "popular_vote_republican": 171660,
+      "popular_vote_total": 375190
+    },
+    {
+      "id": 20048,
+      "state": "DC",
+      "popular_vote_democrat": 202970,
+      "popular_vote_republican": 21256,
+      "popular_vote_total": 227586
+    },
+    {
+      "id": 20049,
+      "state": "FL",
+      "popular_vote_democrat": 3583544,
+      "popular_vote_republican": 3964522,
+      "popular_vote_total": 7609810
+    },
+    {
+      "id": 200410,
+      "state": "GA",
+      "popular_vote_democrat": 1366149,
+      "popular_vote_republican": 1914254,
+      "popular_vote_total": 3301875
+    },
+    {
+      "id": 200411,
+      "state": "HI",
+      "popular_vote_democrat": 231708,
+      "popular_vote_republican": 194191,
+      "popular_vote_total": 429013
+    },
+    {
+      "id": 200412,
+      "state": "ID",
+      "popular_vote_democrat": 181098,
+      "popular_vote_republican": 409235,
+      "popular_vote_total": 598447
+    },
+    {
+      "id": 200413,
+      "state": "IL",
+      "popular_vote_democrat": 2891550,
+      "popular_vote_republican": 2345946,
+      "popular_vote_total": 5274322
+    },
+    {
+      "id": 200414,
+      "state": "IN",
+      "popular_vote_democrat": 969011,
+      "popular_vote_republican": 1479438,
+      "popular_vote_total": 2468002
+    },
+    {
+      "id": 200415,
+      "state": "IA",
+      "popular_vote_democrat": 741898,
+      "popular_vote_republican": 751957,
+      "popular_vote_total": 1506908
+    },
+    {
+      "id": 200416,
+      "state": "KS",
+      "popular_vote_democrat": 434993,
+      "popular_vote_republican": 736456,
+      "popular_vote_total": 1187756
+    },
+    {
+      "id": 200417,
+      "state": "KY",
+      "popular_vote_democrat": 712733,
+      "popular_vote_republican": 1069439,
+      "popular_vote_total": 1795882
+    },
+    {
+      "id": 200418,
+      "state": "LA",
+      "popular_vote_democrat": 820299,
+      "popular_vote_republican": 1102169,
+      "popular_vote_total": 1943106
+    },
+    {
+      "id": 200419,
+      "state": "ME",
+      "popular_vote_democrat": 396842,
+      "popular_vote_republican": 330201,
+      "popular_vote_total": 740752
+    },
+    {
+      "id": 200420,
+      "state": "MD",
+      "popular_vote_democrat": 1334493,
+      "popular_vote_republican": 1024703,
+      "popular_vote_total": 2386678
+    },
+    {
+      "id": 200421,
+      "state": "MA",
+      "popular_vote_democrat": 1803800,
+      "popular_vote_republican": 1071109,
+      "popular_vote_total": 2912388
+    },
+    {
+      "id": 200422,
+      "state": "MI",
+      "popular_vote_democrat": 2479183,
+      "popular_vote_republican": 2313746,
+      "popular_vote_total": 4839252
+    },
+    {
+      "id": 200423,
+      "state": "MN",
+      "popular_vote_democrat": 1445014,
+      "popular_vote_republican": 1346695,
+      "popular_vote_total": 2828387
+    },
+    {
+      "id": 200424,
+      "state": "MS",
+      "popular_vote_democrat": 458094,
+      "popular_vote_republican": 684981,
+      "popular_vote_total": 1152145
+    },
+    {
+      "id": 200425,
+      "state": "MO",
+      "popular_vote_democrat": 1259171,
+      "popular_vote_republican": 1455713,
+      "popular_vote_total": 2731364
+    },
+    {
+      "id": 200426,
+      "state": "MT",
+      "popular_vote_democrat": 173710,
+      "popular_vote_republican": 266063,
+      "popular_vote_total": 450445
+    },
+    {
+      "id": 200427,
+      "state": "NE",
+      "popular_vote_democrat": 254328,
+      "popular_vote_republican": 512814,
+      "popular_vote_total": 778186
+    },
+    {
+      "id": 200428,
+      "state": "NV",
+      "popular_vote_democrat": 397190,
+      "popular_vote_republican": 418690,
+      "popular_vote_total": 829587
+    },
+    {
+      "id": 200429,
+      "state": "NH",
+      "popular_vote_democrat": 340511,
+      "popular_vote_republican": 331237,
+      "popular_vote_total": 677738
+    },
+    {
+      "id": 200430,
+      "state": "NJ",
+      "popular_vote_democrat": 1911430,
+      "popular_vote_republican": 1670003,
+      "popular_vote_total": 3611691
+    },
+    {
+      "id": 200431,
+      "state": "NM",
+      "popular_vote_democrat": 370942,
+      "popular_vote_republican": 376930,
+      "popular_vote_total": 756304
+    },
+    {
+      "id": 200432,
+      "state": "NY",
+      "popular_vote_democrat": 4314280,
+      "popular_vote_republican": 2962567,
+      "popular_vote_total": 7391036
+    },
+    {
+      "id": 200433,
+      "state": "NC",
+      "popular_vote_democrat": 1525849,
+      "popular_vote_republican": 1961166,
+      "popular_vote_total": 3501007
+    },
+    {
+      "id": 200434,
+      "state": "ND",
+      "popular_vote_democrat": 111052,
+      "popular_vote_republican": 196651,
+      "popular_vote_total": 312833
+    },
+    {
+      "id": 200435,
+      "state": "OH",
+      "popular_vote_democrat": 2741167,
+      "popular_vote_republican": 2859768,
+      "popular_vote_total": 5627908
+    },
+    {
+      "id": 200436,
+      "state": "OK",
+      "popular_vote_democrat": 503966,
+      "popular_vote_republican": 959792,
+      "popular_vote_total": 1463758
+    },
+    {
+      "id": 200437,
+      "state": "OR",
+      "popular_vote_democrat": 943163,
+      "popular_vote_republican": 866831,
+      "popular_vote_total": 1836782
+    },
+    {
+      "id": 200438,
+      "state": "PA",
+      "popular_vote_democrat": 2938095,
+      "popular_vote_republican": 2793847,
+      "popular_vote_total": 5769590
+    },
+    {
+      "id": 200439,
+      "state": "RI",
+      "popular_vote_democrat": 259765,
+      "popular_vote_republican": 169046,
+      "popular_vote_total": 437134
+    },
+    {
+      "id": 200440,
+      "state": "SC",
+      "popular_vote_democrat": 661699,
+      "popular_vote_republican": 937974,
+      "popular_vote_total": 1617730
+    },
+    {
+      "id": 200441,
+      "state": "SD",
+      "popular_vote_democrat": 149244,
+      "popular_vote_republican": 232584,
+      "popular_vote_total": 388215
+    },
+    {
+      "id": 200442,
+      "state": "TN",
+      "popular_vote_democrat": 1036477,
+      "popular_vote_republican": 1384375,
+      "popular_vote_total": 2437319
+    },
+    {
+      "id": 200443,
+      "state": "TX",
+      "popular_vote_democrat": 2832704,
+      "popular_vote_republican": 4526917,
+      "popular_vote_total": 7410765
+    },
+    {
+      "id": 200444,
+      "state": "UT",
+      "popular_vote_democrat": 241199,
+      "popular_vote_republican": 663742,
+      "popular_vote_total": 927844
+    },
+    {
+      "id": 200445,
+      "state": "VT",
+      "popular_vote_democrat": 184067,
+      "popular_vote_republican": 121180,
+      "popular_vote_total": 312309
+    },
+    {
+      "id": 200446,
+      "state": "VA",
+      "popular_vote_democrat": 1454742,
+      "popular_vote_republican": 1716959,
+      "popular_vote_total": 3198367
+    },
+    {
+      "id": 200447,
+      "state": "WA",
+      "popular_vote_democrat": 1510201,
+      "popular_vote_republican": 1304894,
+      "popular_vote_total": 2859084
+    },
+    {
+      "id": 200448,
+      "state": "WV",
+      "popular_vote_democrat": 326541,
+      "popular_vote_republican": 423778,
+      "popular_vote_total": 755887
+    },
+    {
+      "id": 200449,
+      "state": "WI",
+      "popular_vote_democrat": 1489504,
+      "popular_vote_republican": 1478120,
+      "popular_vote_total": 2997007
+    },
+    {
+      "id": 200450,
+      "state": "WY",
+      "popular_vote_democrat": 70776,
+      "popular_vote_republican": 167629,
+      "popular_vote_total": 243428
+    },
+    {
+      "id": 200451,
+      "state": "Total:",
+      "popular_vote_democrat": 59028444,
+      "popular_vote_republican": 62040610,
+      "popular_vote_total": 122295345
+    }
+  ],
+  "year_2008": [
+    {
+      "id": 20080,
+      "state": "AL",
+      "popular_vote_democrat": 813479,
+      "popular_vote_republican": 1266546,
+      "popular_vote_total": 2099819
+    },
+    {
+      "id": 20081,
+      "state": "AK",
+      "popular_vote_democrat": 123594,
+      "popular_vote_republican": 193841,
+      "popular_vote_total": 326197
+    },
+    {
+      "id": 20082,
+      "state": "AZ",
+      "popular_vote_democrat": 1034707,
+      "popular_vote_republican": 1230111,
+      "popular_vote_total": 2293475
+    },
+    {
+      "id": 20083,
+      "state": "AR",
+      "popular_vote_democrat": 422310,
+      "popular_vote_republican": 638017,
+      "popular_vote_total": 1086617
+    },
+    {
+      "id": 20084,
+      "state": "CA",
+      "popular_vote_democrat": 8274473,
+      "popular_vote_republican": 5011781,
+      "popular_vote_total": 13561900
+    },
+    {
+      "id": 20085,
+      "state": "CO",
+      "popular_vote_democrat": 1288633,
+      "popular_vote_republican": 1073629,
+      "popular_vote_total": 2401462
+    },
+    {
+      "id": 20086,
+      "state": "CT",
+      "popular_vote_democrat": 997772,
+      "popular_vote_republican": 629428,
+      "popular_vote_total": 1646797
+    },
+    {
+      "id": 20087,
+      "state": "DE",
+      "popular_vote_democrat": 255459,
+      "popular_vote_republican": 152374,
+      "popular_vote_total": 412412
+    },
+    {
+      "id": 20088,
+      "state": "DC",
+      "popular_vote_democrat": 245800,
+      "popular_vote_republican": 17367,
+      "popular_vote_total": 265853
+    },
+    {
+      "id": 20089,
+      "state": "FL",
+      "popular_vote_democrat": 4282074,
+      "popular_vote_republican": 4045624,
+      "popular_vote_total": 8390744
+    },
+    {
+      "id": 200810,
+      "state": "GA",
+      "popular_vote_democrat": 1844123,
+      "popular_vote_republican": 2048759,
+      "popular_vote_total": 3924486
+    },
+    {
+      "id": 200811,
+      "state": "HI",
+      "popular_vote_democrat": 325871,
+      "popular_vote_republican": 120566,
+      "popular_vote_total": 453568
+    },
+    {
+      "id": 200812,
+      "state": "ID",
+      "popular_vote_democrat": 236440,
+      "popular_vote_republican": 403012,
+      "popular_vote_total": 655122
+    },
+    {
+      "id": 200813,
+      "state": "IL",
+      "popular_vote_democrat": 3419348,
+      "popular_vote_republican": 2031179,
+      "popular_vote_total": 5522371
+    },
+    {
+      "id": 200814,
+      "state": "IN",
+      "popular_vote_democrat": 1374039,
+      "popular_vote_republican": 1345648,
+      "popular_vote_total": 2751054
+    },
+    {
+      "id": 200815,
+      "state": "IA",
+      "popular_vote_democrat": 828940,
+      "popular_vote_republican": 682379,
+      "popular_vote_total": 1537123
+    },
+    {
+      "id": 200816,
+      "state": "KS",
+      "popular_vote_democrat": 514765,
+      "popular_vote_republican": 699655,
+      "popular_vote_total": 1235872
+    },
+    {
+      "id": 200817,
+      "state": "KY",
+      "popular_vote_democrat": 751985,
+      "popular_vote_republican": 1048462,
+      "popular_vote_total": 1826620
+    },
+    {
+      "id": 200818,
+      "state": "LA",
+      "popular_vote_democrat": 782989,
+      "popular_vote_republican": 1148275,
+      "popular_vote_total": 1960761
+    },
+    {
+      "id": 200819,
+      "state": "ME",
+      "popular_vote_democrat": 421923,
+      "popular_vote_republican": 295273,
+      "popular_vote_total": 731163
+    },
+    {
+      "id": 200820,
+      "state": "MD",
+      "popular_vote_democrat": 1629467,
+      "popular_vote_republican": 959862,
+      "popular_vote_total": 2631596
+    },
+    {
+      "id": 200821,
+      "state": "MA",
+      "popular_vote_democrat": 1904097,
+      "popular_vote_republican": 1108854,
+      "popular_vote_total": 3080985
+    },
+    {
+      "id": 200822,
+      "state": "MI",
+      "popular_vote_democrat": 2872579,
+      "popular_vote_republican": 2048639,
+      "popular_vote_total": 5001766
+    },
+    {
+      "id": 200823,
+      "state": "MN",
+      "popular_vote_democrat": 1573354,
+      "popular_vote_republican": 1275409,
+      "popular_vote_total": 2910369
+    },
+    {
+      "id": 200824,
+      "state": "MS",
+      "popular_vote_democrat": 554662,
+      "popular_vote_republican": 724597,
+      "popular_vote_total": 1289865
+    },
+    {
+      "id": 200825,
+      "state": "MO",
+      "popular_vote_democrat": 1441911,
+      "popular_vote_republican": 1445814,
+      "popular_vote_total": 2925205
+    },
+    {
+      "id": 200826,
+      "state": "MT",
+      "popular_vote_democrat": 231667,
+      "popular_vote_republican": 242763,
+      "popular_vote_total": 490302
+    },
+    {
+      "id": 200827,
+      "state": "NE",
+      "popular_vote_democrat": 333319,
+      "popular_vote_republican": 452979,
+      "popular_vote_total": 801281
+    },
+    {
+      "id": 200828,
+      "state": "NV",
+      "popular_vote_democrat": 533736,
+      "popular_vote_republican": 412827,
+      "popular_vote_total": 967848
+    },
+    {
+      "id": 200829,
+      "state": "NH",
+      "popular_vote_democrat": 384826,
+      "popular_vote_republican": 316534,
+      "popular_vote_total": 710970
+    },
+    {
+      "id": 200830,
+      "state": "NJ",
+      "popular_vote_democrat": 2215422,
+      "popular_vote_republican": 1613207,
+      "popular_vote_total": 3868237
+    },
+    {
+      "id": 200831,
+      "state": "NM",
+      "popular_vote_democrat": 472422,
+      "popular_vote_republican": 346832,
+      "popular_vote_total": 830158
+    },
+    {
+      "id": 200832,
+      "state": "NY",
+      "popular_vote_democrat": 4804945,
+      "popular_vote_republican": 2752771,
+      "popular_vote_total": 7640931
+    },
+    {
+      "id": 200833,
+      "state": "NC",
+      "popular_vote_democrat": 2142651,
+      "popular_vote_republican": 2128474,
+      "popular_vote_total": 4310789
+    },
+    {
+      "id": 200834,
+      "state": "ND",
+      "popular_vote_democrat": 141278,
+      "popular_vote_republican": 168601,
+      "popular_vote_total": 316621
+    },
+    {
+      "id": 200835,
+      "state": "OH",
+      "popular_vote_democrat": 2940044,
+      "popular_vote_republican": 2677820,
+      "popular_vote_total": 5708350
+    },
+    {
+      "id": 200836,
+      "state": "OK",
+      "popular_vote_democrat": 502496,
+      "popular_vote_republican": 960165,
+      "popular_vote_total": 1462661
+    },
+    {
+      "id": 200837,
+      "state": "OR",
+      "popular_vote_democrat": 1037291,
+      "popular_vote_republican": 738475,
+      "popular_vote_total": 1827864
+    },
+    {
+      "id": 200838,
+      "state": "PA",
+      "popular_vote_democrat": 3276363,
+      "popular_vote_republican": 2655885,
+      "popular_vote_total": 6013272
+    },
+    {
+      "id": 200839,
+      "state": "RI",
+      "popular_vote_democrat": 296571,
+      "popular_vote_republican": 165391,
+      "popular_vote_total": 471766
+    },
+    {
+      "id": 200840,
+      "state": "SC",
+      "popular_vote_democrat": 862449,
+      "popular_vote_republican": 1034896,
+      "popular_vote_total": 1920969
+    },
+    {
+      "id": 200841,
+      "state": "SD",
+      "popular_vote_democrat": 170924,
+      "popular_vote_republican": 203054,
+      "popular_vote_total": 381975
+    },
+    {
+      "id": 200842,
+      "state": "TN",
+      "popular_vote_democrat": 1087437,
+      "popular_vote_republican": 1479178,
+      "popular_vote_total": 2599749
+    },
+    {
+      "id": 200843,
+      "state": "TX",
+      "popular_vote_democrat": 3528633,
+      "popular_vote_republican": 4479328,
+      "popular_vote_total": 8077795
+    },
+    {
+      "id": 200844,
+      "state": "UT",
+      "popular_vote_democrat": 327670,
+      "popular_vote_republican": 596030,
+      "popular_vote_total": 952370
+    },
+    {
+      "id": 200845,
+      "state": "VT",
+      "popular_vote_democrat": 219262,
+      "popular_vote_republican": 98974,
+      "popular_vote_total": 325046
+    },
+    {
+      "id": 200846,
+      "state": "VA",
+      "popular_vote_democrat": 1959532,
+      "popular_vote_republican": 1725005,
+      "popular_vote_total": 3723260
+    },
+    {
+      "id": 200847,
+      "state": "WA",
+      "popular_vote_democrat": 1750848,
+      "popular_vote_republican": 1229216,
+      "popular_vote_total": 3036878
+    },
+    {
+      "id": 200848,
+      "state": "WV",
+      "popular_vote_democrat": 303857,
+      "popular_vote_republican": 397466,
+      "popular_vote_total": 713451
+    },
+    {
+      "id": 200849,
+      "state": "WI",
+      "popular_vote_democrat": 1677211,
+      "popular_vote_republican": 1262393,
+      "popular_vote_total": 2983417
+    },
+    {
+      "id": 200850,
+      "state": "WY",
+      "popular_vote_democrat": 82868,
+      "popular_vote_republican": 164958,
+      "popular_vote_total": 254658
+    },
+    {
+      "id": 200851,
+      "state": "Total:",
+      "popular_vote_democrat": 69498516,
+      "popular_vote_republican": 59948323,
+      "popular_vote_total": 131313820
+    }
+  ],
+  "year_2012": [
+    {
+      "id": 20120,
+      "state": "AL",
+      "popular_vote_democrat": 795696,
+      "popular_vote_republican": 1255925,
+      "popular_vote_total": 2074338
+    },
+    {
+      "id": 20121,
+      "state": "AK",
+      "popular_vote_democrat": 122640,
+      "popular_vote_republican": 164676,
+      "popular_vote_total": 300495
+    },
+    {
+      "id": 20122,
+      "state": "AZ",
+      "popular_vote_democrat": 1025232,
+      "popular_vote_republican": 1233654,
+      "popular_vote_total": 2299254
+    },
+    {
+      "id": 20123,
+      "state": "AR",
+      "popular_vote_democrat": 394409,
+      "popular_vote_republican": 647744,
+      "popular_vote_total": 1069468
+    },
+    {
+      "id": 20124,
+      "state": "CA",
+      "popular_vote_democrat": 7854285,
+      "popular_vote_republican": 4839958,
+      "popular_vote_total": 13038547
+    },
+    {
+      "id": 20125,
+      "state": "CO",
+      "popular_vote_democrat": 1323102,
+      "popular_vote_republican": 1185243,
+      "popular_vote_total": 2569522
+    },
+    {
+      "id": 20126,
+      "state": "CT",
+      "popular_vote_democrat": 905083,
+      "popular_vote_republican": 634892,
+      "popular_vote_total": 1558960
+    },
+    {
+      "id": 20127,
+      "state": "DE",
+      "popular_vote_democrat": 242584,
+      "popular_vote_republican": 165484,
+      "popular_vote_total": 413921
+    },
+    {
+      "id": 20128,
+      "state": "DC",
+      "popular_vote_democrat": 267070,
+      "popular_vote_republican": 21381,
+      "popular_vote_total": 293764
+    },
+    {
+      "id": 20129,
+      "state": "FL",
+      "popular_vote_democrat": 4237756,
+      "popular_vote_republican": 4163447,
+      "popular_vote_total": 8474179
+    },
+    {
+      "id": 201210,
+      "state": "GA",
+      "popular_vote_democrat": 1773827,
+      "popular_vote_republican": 2078688,
+      "popular_vote_total": 3900050
+    },
+    {
+      "id": 201211,
+      "state": "HI",
+      "popular_vote_democrat": 306658,
+      "popular_vote_republican": 121015,
+      "popular_vote_total": 434697
+    },
+    {
+      "id": 201212,
+      "state": "ID",
+      "popular_vote_democrat": 212787,
+      "popular_vote_republican": 420911,
+      "popular_vote_total": 652274
+    },
+    {
+      "id": 201213,
+      "state": "IL",
+      "popular_vote_democrat": 3019512,
+      "popular_vote_republican": 2135216,
+      "popular_vote_total": 5242014
+    },
+    {
+      "id": 201214,
+      "state": "IN",
+      "popular_vote_democrat": 1152887,
+      "popular_vote_republican": 1420543,
+      "popular_vote_total": 2624534
+    },
+    {
+      "id": 201215,
+      "state": "IA",
+      "popular_vote_democrat": 822544,
+      "popular_vote_republican": 730617,
+      "popular_vote_total": 1582180
+    },
+    {
+      "id": 201216,
+      "state": "KS",
+      "popular_vote_democrat": 440726,
+      "popular_vote_republican": 692634,
+      "popular_vote_total": 1159971
+    },
+    {
+      "id": 201217,
+      "state": "KY",
+      "popular_vote_democrat": 679370,
+      "popular_vote_republican": 1087190,
+      "popular_vote_total": 1797212
+    },
+    {
+      "id": 201218,
+      "state": "LA",
+      "popular_vote_democrat": 809141,
+      "popular_vote_republican": 1152262,
+      "popular_vote_total": 1994065
+    },
+    {
+      "id": 201219,
+      "state": "ME",
+      "popular_vote_democrat": 401306,
+      "popular_vote_republican": 292276,
+      "popular_vote_total": 713180
+    },
+    {
+      "id": 201220,
+      "state": "MD",
+      "popular_vote_democrat": 1677844,
+      "popular_vote_republican": 971869,
+      "popular_vote_total": 2707327
+    },
+    {
+      "id": 201221,
+      "state": "MA",
+      "popular_vote_democrat": 1921290,
+      "popular_vote_republican": 1188314,
+      "popular_vote_total": 3167767
+    },
+    {
+      "id": 201222,
+      "state": "MI",
+      "popular_vote_democrat": 2564569,
+      "popular_vote_republican": 2115256,
+      "popular_vote_total": 4730961
+    },
+    {
+      "id": 201223,
+      "state": "MN",
+      "popular_vote_democrat": 1546167,
+      "popular_vote_republican": 1320225,
+      "popular_vote_total": 2936561
+    },
+    {
+      "id": 201224,
+      "state": "MS",
+      "popular_vote_democrat": 562949,
+      "popular_vote_republican": 710746,
+      "popular_vote_total": 1285584
+    },
+    {
+      "id": 201225,
+      "state": "MO",
+      "popular_vote_democrat": 1223796,
+      "popular_vote_republican": 1482440,
+      "popular_vote_total": 2757323
+    },
+    {
+      "id": 201226,
+      "state": "MT",
+      "popular_vote_democrat": 201839,
+      "popular_vote_republican": 267928,
+      "popular_vote_total": 484048
+    },
+    {
+      "id": 201227,
+      "state": "NE",
+      "popular_vote_democrat": 302081,
+      "popular_vote_republican": 475064,
+      "popular_vote_total": 794379
+    },
+    {
+      "id": 201228,
+      "state": "NV",
+      "popular_vote_democrat": 531373,
+      "popular_vote_republican": 463567,
+      "popular_vote_total": 1014918
+    },
+    {
+      "id": 201229,
+      "state": "NH",
+      "popular_vote_democrat": 369561,
+      "popular_vote_republican": 329918,
+      "popular_vote_total": 710972
+    },
+    {
+      "id": 201230,
+      "state": "NJ",
+      "popular_vote_democrat": 2125101,
+      "popular_vote_republican": 1477568,
+      "popular_vote_total": 3640292
+    },
+    {
+      "id": 201231,
+      "state": "NM",
+      "popular_vote_democrat": 415335,
+      "popular_vote_republican": 335788,
+      "popular_vote_total": 783758
+    },
+    {
+      "id": 201232,
+      "state": "NY",
+      "popular_vote_democrat": 4485741,
+      "popular_vote_republican": 2490431,
+      "popular_vote_total": 7081159
+    },
+    {
+      "id": 201233,
+      "state": "NC",
+      "popular_vote_democrat": 2178391,
+      "popular_vote_republican": 2270395,
+      "popular_vote_total": 4505372
+    },
+    {
+      "id": 201234,
+      "state": "ND",
+      "popular_vote_democrat": 124827,
+      "popular_vote_republican": 188163,
+      "popular_vote_total": 322627
+    },
+    {
+      "id": 201235,
+      "state": "OH",
+      "popular_vote_democrat": 2827709,
+      "popular_vote_republican": 2661437,
+      "popular_vote_total": 5580847
+    },
+    {
+      "id": 201236,
+      "state": "OK",
+      "popular_vote_democrat": 443547,
+      "popular_vote_republican": 891325,
+      "popular_vote_total": 1334872
+    },
+    {
+      "id": 201237,
+      "state": "OR",
+      "popular_vote_democrat": 970488,
+      "popular_vote_republican": 754175,
+      "popular_vote_total": 1789270
+    },
+    {
+      "id": 201238,
+      "state": "PA",
+      "popular_vote_democrat": 2990274,
+      "popular_vote_republican": 2680434,
+      "popular_vote_total": 5753670
+    },
+    {
+      "id": 201239,
+      "state": "RI",
+      "popular_vote_democrat": 279677,
+      "popular_vote_republican": 157204,
+      "popular_vote_total": 446049
+    },
+    {
+      "id": 201240,
+      "state": "SC",
+      "popular_vote_democrat": 865941,
+      "popular_vote_republican": 1071645,
+      "popular_vote_total": 1964118
+    },
+    {
+      "id": 201241,
+      "state": "SD",
+      "popular_vote_democrat": 145039,
+      "popular_vote_republican": 210610,
+      "popular_vote_total": 363815
+    },
+    {
+      "id": 201242,
+      "state": "TN",
+      "popular_vote_democrat": 960709,
+      "popular_vote_republican": 1462330,
+      "popular_vote_total": 2458577
+    },
+    {
+      "id": 201243,
+      "state": "TX",
+      "popular_vote_democrat": 3308124,
+      "popular_vote_republican": 4569843,
+      "popular_vote_total": 7993851
+    },
+    {
+      "id": 201244,
+      "state": "UT",
+      "popular_vote_democrat": 251813,
+      "popular_vote_republican": 740600,
+      "popular_vote_total": 1017440
+    },
+    {
+      "id": 201245,
+      "state": "VT",
+      "popular_vote_democrat": 199239,
+      "popular_vote_republican": 92698,
+      "popular_vote_total": 299290
+    },
+    {
+      "id": 201246,
+      "state": "VA",
+      "popular_vote_democrat": 1971820,
+      "popular_vote_republican": 1822522,
+      "popular_vote_total": 3854489
+    },
+    {
+      "id": 201247,
+      "state": "WA",
+      "popular_vote_democrat": 1755396,
+      "popular_vote_republican": 1290670,
+      "popular_vote_total": 3125516
+    },
+    {
+      "id": 201248,
+      "state": "WV",
+      "popular_vote_democrat": 238269,
+      "popular_vote_republican": 417655,
+      "popular_vote_total": 670438
+    },
+    {
+      "id": 201249,
+      "state": "WI",
+      "popular_vote_democrat": 1620985,
+      "popular_vote_republican": 1407966,
+      "popular_vote_total": 3068434
+    },
+    {
+      "id": 201250,
+      "state": "WY",
+      "popular_vote_democrat": 69286,
+      "popular_vote_republican": 170962,
+      "popular_vote_total": 249061
+    },
+    {
+      "id": 201251,
+      "state": "Total:",
+      "popular_vote_democrat": 65915795,
+      "popular_vote_republican": 60933504,
+      "popular_vote_total": 129085410
+    }
+  ],
+  "year_2016": [
+    {
+      "id": 20160,
+      "state": "AL",
+      "popular_vote_democrat": 729547,
+      "popular_vote_republican": 1318255,
+      "popular_vote_total": 2123372
+    },
+    {
+      "id": 20161,
+      "state": "AK",
+      "popular_vote_democrat": 116454,
+      "popular_vote_republican": 163387,
+      "popular_vote_total": 318608
+    },
+    {
+      "id": 20162,
+      "state": "AZ",
+      "popular_vote_democrat": 1161167,
+      "popular_vote_republican": 1252401,
+      "popular_vote_total": 2573165
+    },
+    {
+      "id": 20163,
+      "state": "AR",
+      "popular_vote_democrat": 380494,
+      "popular_vote_republican": 684872,
+      "popular_vote_total": 1130676
+    },
+    {
+      "id": 20164,
+      "state": "CA",
+      "popular_vote_democrat": 8753792,
+      "popular_vote_republican": 4483814,
+      "popular_vote_total": 14181604
+    },
+    {
+      "id": 20165,
+      "state": "CO",
+      "popular_vote_democrat": 1338870,
+      "popular_vote_republican": 1202484,
+      "popular_vote_total": 2780247
+    },
+    {
+      "id": 20166,
+      "state": "CT",
+      "popular_vote_democrat": 897572,
+      "popular_vote_republican": 673215,
+      "popular_vote_total": 1644920
+    },
+    {
+      "id": 20167,
+      "state": "DE",
+      "popular_vote_democrat": 235603,
+      "popular_vote_republican": 185127,
+      "popular_vote_total": 443814
+    },
+    {
+      "id": 20168,
+      "state": "DC",
+      "popular_vote_democrat": 282830,
+      "popular_vote_republican": 12723,
+      "popular_vote_total": 311268
+    },
+    {
+      "id": 20169,
+      "state": "FL",
+      "popular_vote_democrat": 4504975,
+      "popular_vote_republican": 4617886,
+      "popular_vote_total": 9420039
+    },
+    {
+      "id": 201610,
+      "state": "GA",
+      "popular_vote_democrat": 1877963,
+      "popular_vote_republican": 2089104,
+      "popular_vote_total": 4114732
+    },
+    {
+      "id": 201611,
+      "state": "HI",
+      "popular_vote_democrat": 266891,
+      "popular_vote_republican": 128847,
+      "popular_vote_total": 428937
+    },
+    {
+      "id": 201612,
+      "state": "ID",
+      "popular_vote_democrat": 189765,
+      "popular_vote_republican": 409055,
+      "popular_vote_total": 690255
+    },
+    {
+      "id": 201613,
+      "state": "IL",
+      "popular_vote_democrat": 3090729,
+      "popular_vote_republican": 2146015,
+      "popular_vote_total": 5536424
+    },
+    {
+      "id": 201614,
+      "state": "IN",
+      "popular_vote_democrat": 1033126,
+      "popular_vote_republican": 1557286,
+      "popular_vote_total": 2734958
+    },
+    {
+      "id": 201615,
+      "state": "IA",
+      "popular_vote_democrat": 653669,
+      "popular_vote_republican": 800983,
+      "popular_vote_total": 1566031
+    },
+    {
+      "id": 201616,
+      "state": "KS",
+      "popular_vote_democrat": 427005,
+      "popular_vote_republican": 671018,
+      "popular_vote_total": 1184402
+    },
+    {
+      "id": 201617,
+      "state": "KY",
+      "popular_vote_democrat": 628854,
+      "popular_vote_republican": 1202971,
+      "popular_vote_total": 1924149
+    },
+    {
+      "id": 201618,
+      "state": "LA",
+      "popular_vote_democrat": 780154,
+      "popular_vote_republican": 1178638,
+      "popular_vote_total": 2029032
+    },
+    {
+      "id": 201619,
+      "state": "ME",
+      "popular_vote_democrat": 357735,
+      "popular_vote_republican": 335593,
+      "popular_vote_total": 747927
+    },
+    {
+      "id": 201620,
+      "state": "MD",
+      "popular_vote_democrat": 1677928,
+      "popular_vote_republican": 943169,
+      "popular_vote_total": 2781446
+    },
+    {
+      "id": 201621,
+      "state": "MA",
+      "popular_vote_democrat": 1995196,
+      "popular_vote_republican": 1090893,
+      "popular_vote_total": 3325046
+    },
+    {
+      "id": 201622,
+      "state": "MI",
+      "popular_vote_democrat": 2268839,
+      "popular_vote_republican": 2279543,
+      "popular_vote_total": 4799284
+    },
+    {
+      "id": 201623,
+      "state": "MN",
+      "popular_vote_democrat": 1367716,
+      "popular_vote_republican": 1322951,
+      "popular_vote_total": 2944813
+    },
+    {
+      "id": 201624,
+      "state": "MS",
+      "popular_vote_democrat": 485131,
+      "popular_vote_republican": 700714,
+      "popular_vote_total": 1209357
+    },
+    {
+      "id": 201625,
+      "state": "MO",
+      "popular_vote_democrat": 1071068,
+      "popular_vote_republican": 1594511,
+      "popular_vote_total": 2808605
+    },
+    {
+      "id": 201626,
+      "state": "MT",
+      "popular_vote_democrat": 177709,
+      "popular_vote_republican": 279240,
+      "popular_vote_total": 497147
+    },
+    {
+      "id": 201627,
+      "state": "NE",
+      "popular_vote_democrat": 284494,
+      "popular_vote_republican": 495961,
+      "popular_vote_total": 844227
+    },
+    {
+      "id": 201628,
+      "state": "NV",
+      "popular_vote_democrat": 539260,
+      "popular_vote_republican": 512058,
+      "popular_vote_total": 1125385
+    },
+    {
+      "id": 201629,
+      "state": "NH",
+      "popular_vote_democrat": 348526,
+      "popular_vote_republican": 345790,
+      "popular_vote_total": 744296
+    },
+    {
+      "id": 201630,
+      "state": "NJ",
+      "popular_vote_democrat": 2148278,
+      "popular_vote_republican": 1601933,
+      "popular_vote_total": 3874046
+    },
+    {
+      "id": 201631,
+      "state": "NM",
+      "popular_vote_democrat": 385234,
+      "popular_vote_republican": 319667,
+      "popular_vote_total": 798319
+    },
+    {
+      "id": 201632,
+      "state": "NY",
+      "popular_vote_democrat": 4556118,
+      "popular_vote_republican": 2819533,
+      "popular_vote_total": 7721442
+    },
+    {
+      "id": 201633,
+      "state": "NC",
+      "popular_vote_democrat": 2189316,
+      "popular_vote_republican": 2362631,
+      "popular_vote_total": 4741564
+    },
+    {
+      "id": 201634,
+      "state": "ND",
+      "popular_vote_democrat": 93758,
+      "popular_vote_republican": 216794,
+      "popular_vote_total": 344360
+    },
+    {
+      "id": 201635,
+      "state": "OH",
+      "popular_vote_democrat": 2394164,
+      "popular_vote_republican": 2841005,
+      "popular_vote_total": 5496487
+    },
+    {
+      "id": 201636,
+      "state": "OK",
+      "popular_vote_democrat": 420375,
+      "popular_vote_republican": 949136,
+      "popular_vote_total": 1452992
+    },
+    {
+      "id": 201637,
+      "state": "OR",
+      "popular_vote_democrat": 1002106,
+      "popular_vote_republican": 782403,
+      "popular_vote_total": 2001336
+    },
+    {
+      "id": 201638,
+      "state": "PA",
+      "popular_vote_democrat": 2926441,
+      "popular_vote_republican": 2970733,
+      "popular_vote_total": 6165478
+    },
+    {
+      "id": 201639,
+      "state": "RI",
+      "popular_vote_democrat": 252525,
+      "popular_vote_republican": 180543,
+      "popular_vote_total": 464144
+    },
+    {
+      "id": 201640,
+      "state": "SC",
+      "popular_vote_democrat": 855373,
+      "popular_vote_republican": 1155389,
+      "popular_vote_total": 2103027
+    },
+    {
+      "id": 201641,
+      "state": "SD",
+      "popular_vote_democrat": 117458,
+      "popular_vote_republican": 227721,
+      "popular_vote_total": 370093
+    },
+    {
+      "id": 201642,
+      "state": "TN",
+      "popular_vote_democrat": 870695,
+      "popular_vote_republican": 1522925,
+      "popular_vote_total": 2508027
+    },
+    {
+      "id": 201643,
+      "state": "TX",
+      "popular_vote_democrat": 3877868,
+      "popular_vote_republican": 4685047,
+      "popular_vote_total": 8969226
+    },
+    {
+      "id": 201644,
+      "state": "UT",
+      "popular_vote_democrat": 310676,
+      "popular_vote_republican": 515231,
+      "popular_vote_total": 1131430
+    },
+    {
+      "id": 201645,
+      "state": "VT",
+      "popular_vote_democrat": 178573,
+      "popular_vote_republican": 95369,
+      "popular_vote_total": 315067
+    },
+    {
+      "id": 201646,
+      "state": "VA",
+      "popular_vote_democrat": 1981473,
+      "popular_vote_republican": 1769443,
+      "popular_vote_total": 3984631
+    },
+    {
+      "id": 201647,
+      "state": "WA",
+      "popular_vote_democrat": 1742718,
+      "popular_vote_republican": 1221747,
+      "popular_vote_total": 3317019
+    },
+    {
+      "id": 201648,
+      "state": "WV",
+      "popular_vote_democrat": 188794,
+      "popular_vote_republican": 489371,
+      "popular_vote_total": 714423
+    },
+    {
+      "id": 201649,
+      "state": "WI",
+      "popular_vote_democrat": 1382536,
+      "popular_vote_republican": 1405284,
+      "popular_vote_total": 2976150
+    },
+    {
+      "id": 201650,
+      "state": "WY",
+      "popular_vote_democrat": 55973,
+      "popular_vote_republican": 174419,
+      "popular_vote_total": 255849
+    },
+    {
+      "id": 201651,
+      "state": "Total:",
+      "popular_vote_democrat": 65853514,
+      "popular_vote_republican": 62984828,
+      "popular_vote_total": 136669276
+    }
+  ],
+  "year_2020": [
+    {
+      "id": 20200,
+      "state": "AL",
+      "popular_vote_democrat": 849624,
+      "popular_vote_republican": 1441170,
+      "popular_vote_total": 2323282
+    },
+    {
+      "id": 20201,
+      "state": "AK",
+      "popular_vote_democrat": 153778,
+      "popular_vote_republican": 189951,
+      "popular_vote_total": 359530
+    },
+    {
+      "id": 20202,
+      "state": "AZ",
+      "popular_vote_democrat": 1672143,
+      "popular_vote_republican": 1661686,
+      "popular_vote_total": 3387326
+    },
+    {
+      "id": 20203,
+      "state": "AR",
+      "popular_vote_democrat": 423932,
+      "popular_vote_republican": 760647,
+      "popular_vote_total": 1219069
+    },
+    {
+      "id": 20204,
+      "state": "CA",
+      "popular_vote_democrat": 11110639,
+      "popular_vote_republican": 6006518,
+      "popular_vote_total": 17501380
+    },
+    {
+      "id": 20205,
+      "state": "CO",
+      "popular_vote_democrat": 1804352,
+      "popular_vote_republican": 1364607,
+      "popular_vote_total": 3256980
+    },
+    {
+      "id": 20206,
+      "state": "CT",
+      "popular_vote_democrat": 1080831,
+      "popular_vote_republican": 714717,
+      "popular_vote_total": 1823857
+    },
+    {
+      "id": 20207,
+      "state": "DE",
+      "popular_vote_democrat": 296268,
+      "popular_vote_republican": 200603,
+      "popular_vote_total": 504346
+    },
+    {
+      "id": 20208,
+      "state": "DC",
+      "popular_vote_democrat": 317323,
+      "popular_vote_republican": 18586,
+      "popular_vote_total": 344356
+    },
+    {
+      "id": 20209,
+      "state": "FL",
+      "popular_vote_democrat": 5297045,
+      "popular_vote_republican": 5668731,
+      "popular_vote_total": 11067456
+    },
+    {
+      "id": 202010,
+      "state": "GA",
+      "popular_vote_democrat": 2473633,
+      "popular_vote_republican": 2461854,
+      "popular_vote_total": 4999960
+    },
+    {
+      "id": 202011,
+      "state": "HI",
+      "popular_vote_democrat": 366130,
+      "popular_vote_republican": 196864,
+      "popular_vote_total": 574469
+    },
+    {
+      "id": 202012,
+      "state": "ID",
+      "popular_vote_democrat": 287021,
+      "popular_vote_republican": 554119,
+      "popular_vote_total": 867934
+    },
+    {
+      "id": 202013,
+      "state": "IL",
+      "popular_vote_democrat": 3471915,
+      "popular_vote_republican": 2446891,
+      "popular_vote_total": 6033744
+    },
+    {
+      "id": 202014,
+      "state": "IN",
+      "popular_vote_democrat": 1242498,
+      "popular_vote_republican": 1729857,
+      "popular_vote_total": 3033210
+    },
+    {
+      "id": 202015,
+      "state": "IA",
+      "popular_vote_democrat": 759061,
+      "popular_vote_republican": 897672,
+      "popular_vote_total": 1690871
+    },
+    {
+      "id": 202016,
+      "state": "KS",
+      "popular_vote_democrat": 570323,
+      "popular_vote_republican": 771406,
+      "popular_vote_total": 1373986
+    },
+    {
+      "id": 202017,
+      "state": "KY",
+      "popular_vote_democrat": 772474,
+      "popular_vote_republican": 1326646,
+      "popular_vote_total": 2136768
+    },
+    {
+      "id": 202018,
+      "state": "LA",
+      "popular_vote_democrat": 856034,
+      "popular_vote_republican": 1255776,
+      "popular_vote_total": 2148062
+    },
+    {
+      "id": 202019,
+      "state": "ME",
+      "popular_vote_democrat": 435072,
+      "popular_vote_republican": 360737,
+      "popular_vote_total": 819461
+    },
+    {
+      "id": 202020,
+      "state": "MD",
+      "popular_vote_democrat": 1985023,
+      "popular_vote_republican": 976414,
+      "popular_vote_total": 3037030
+    },
+    {
+      "id": 202021,
+      "state": "MA",
+      "popular_vote_democrat": 2382202,
+      "popular_vote_republican": 1167202,
+      "popular_vote_total": 3631402
+    },
+    {
+      "id": 202022,
+      "state": "MI",
+      "popular_vote_democrat": 2804040,
+      "popular_vote_republican": 2649852,
+      "popular_vote_total": 5539302
+    },
+    {
+      "id": 202023,
+      "state": "MN",
+      "popular_vote_democrat": 1717077,
+      "popular_vote_republican": 1484065,
+      "popular_vote_total": 3277171
+    },
+    {
+      "id": 202024,
+      "state": "MS",
+      "popular_vote_democrat": 539398,
+      "popular_vote_republican": 756764,
+      "popular_vote_total": 1313759
+    },
+    {
+      "id": 202025,
+      "state": "MO",
+      "popular_vote_democrat": 1253014,
+      "popular_vote_republican": 1718736,
+      "popular_vote_total": 3025962
+    },
+    {
+      "id": 202026,
+      "state": "MT",
+      "popular_vote_democrat": 244786,
+      "popular_vote_republican": 343602,
+      "popular_vote_total": 603674
+    },
+    {
+      "id": 202027,
+      "state": "NE",
+      "popular_vote_democrat": 374583,
+      "popular_vote_republican": 556846,
+      "popular_vote_total": 956383
+    },
+    {
+      "id": 202028,
+      "state": "NV",
+      "popular_vote_democrat": 703486,
+      "popular_vote_republican": 669890,
+      "popular_vote_total": 1405376
+    },
+    {
+      "id": 202029,
+      "state": "NH",
+      "popular_vote_democrat": 424937,
+      "popular_vote_republican": 365660,
+      "popular_vote_total": 806205
+    },
+    {
+      "id": 202030,
+      "state": "NJ",
+      "popular_vote_democrat": 2608400,
+      "popular_vote_republican": 1883313,
+      "popular_vote_total": 4549457
+    },
+    {
+      "id": 202031,
+      "state": "NM",
+      "popular_vote_democrat": 501614,
+      "popular_vote_republican": 401894,
+      "popular_vote_total": 923965
+    },
+    {
+      "id": 202032,
+      "state": "NY",
+      "popular_vote_democrat": 5244886,
+      "popular_vote_republican": 3251997,
+      "popular_vote_total": 8616861
+    },
+    {
+      "id": 202033,
+      "state": "NC",
+      "popular_vote_democrat": 2684292,
+      "popular_vote_republican": 2758775,
+      "popular_vote_total": 5524804
+    },
+    {
+      "id": 202034,
+      "state": "ND",
+      "popular_vote_democrat": 115042,
+      "popular_vote_republican": 235751,
+      "popular_vote_total": 362024
+    },
+    {
+      "id": 202035,
+      "state": "OH",
+      "popular_vote_democrat": 2679165,
+      "popular_vote_republican": 3154834,
+      "popular_vote_total": 5922202
+    },
+    {
+      "id": 202036,
+      "state": "OK",
+      "popular_vote_democrat": 503890,
+      "popular_vote_republican": 1020280,
+      "popular_vote_total": 1560699
+    },
+    {
+      "id": 202037,
+      "state": "OR",
+      "popular_vote_democrat": 1340383,
+      "popular_vote_republican": 958448,
+      "popular_vote_total": 2374321
+    },
+    {
+      "id": 202038,
+      "state": "PA",
+      "popular_vote_democrat": 3458229,
+      "popular_vote_republican": 3377674,
+      "popular_vote_total": 6936976
+    },
+    {
+      "id": 202039,
+      "state": "RI",
+      "popular_vote_democrat": 307486,
+      "popular_vote_republican": 199922,
+      "popular_vote_total": 517757
+    },
+    {
+      "id": 202040,
+      "state": "SC",
+      "popular_vote_democrat": 1091541,
+      "popular_vote_republican": 1385103,
+      "popular_vote_total": 2513329
+    },
+    {
+      "id": 202041,
+      "state": "SD",
+      "popular_vote_democrat": 150471,
+      "popular_vote_republican": 261043,
+      "popular_vote_total": 422609
+    },
+    {
+      "id": 202042,
+      "state": "TN",
+      "popular_vote_democrat": 1143711,
+      "popular_vote_republican": 1852475,
+      "popular_vote_total": 3053851
+    },
+    {
+      "id": 202043,
+      "state": "TX",
+      "popular_vote_democrat": 5259126,
+      "popular_vote_republican": 5890347,
+      "popular_vote_total": 11315056
+    },
+    {
+      "id": 202044,
+      "state": "UT",
+      "popular_vote_democrat": 560282,
+      "popular_vote_republican": 865140,
+      "popular_vote_total": 1488289
+    },
+    {
+      "id": 202045,
+      "state": "VT",
+      "popular_vote_democrat": 242820,
+      "popular_vote_republican": 112704,
+      "popular_vote_total": 367428
+    },
+    {
+      "id": 202046,
+      "state": "VA",
+      "popular_vote_democrat": 2413568,
+      "popular_vote_republican": 1962430,
+      "popular_vote_total": 4460524
+    },
+    {
+      "id": 202047,
+      "state": "WA",
+      "popular_vote_democrat": 2369612,
+      "popular_vote_republican": 1584651,
+      "popular_vote_total": 4087631
+    },
+    {
+      "id": 202048,
+      "state": "WV",
+      "popular_vote_democrat": 235984,
+      "popular_vote_republican": 545382,
+      "popular_vote_total": 794731
+    },
+    {
+      "id": 202049,
+      "state": "WI",
+      "popular_vote_democrat": 1630866,
+      "popular_vote_republican": 1610184,
+      "popular_vote_total": 3298041
+    },
+    {
+      "id": 202050,
+      "state": "WY",
+      "popular_vote_democrat": 73491,
+      "popular_vote_republican": 193559,
+      "popular_vote_total": 276765
+    },
+    {
+      "id": 202051,
+      "state": "Total:",
+      "popular_vote_democrat": 81283501,
+      "popular_vote_republican": 74223975,
+      "popular_vote_total": 158429631
+    }
+  ]
+}
