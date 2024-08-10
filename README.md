@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-![load voter data by year](./public/Abstract-State Data.gif)
+![load voter data by year](/public/Abstract-State-Data.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
